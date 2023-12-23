@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1696013556 source:/home/antonio/Bsi1/t1-pacote/trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+
+1696124005 source:/home/antonio/Bsi1/t1-pacote/main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho1.h"
+
+1696124507 /home/antonio/Bsi1/t1-pacote/trabalho1.h
+
